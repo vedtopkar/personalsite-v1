@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ved Topkar</title>
+    <link>http://vedtopkar.com</link>
+    <description>Harvard student and aspiring doctor/scientist.</description>
+    <atom:link href="http://vedtopkar.com/blog/atom.xml" rel="self" type="application/rss+xml" />
+    
+       
+    
+       
+        <item>
+          <title>Test Post</title>
+          <description><![CDATA[<p>This is a test post. I will soon be updating this blog more often with interesting information.</p>
+]]></description>
+          <pubDate>Invalid Date</pubDate>
+          <link>http://vedtopkar.com/blog/[object Object]</link>
+          <guid isPermaLink="true">http://vedtopkar.com/blog/[object Object]</guid>
+        </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+{
+  "globals": {
+    "name": "Ved Topkar",
+    "title": "Ved Topkar",
+    "url": "http://vedtopkar.com",
+    "description": "Harvard student and aspiring doctor/scientist.",
+    "authors": {
+      "Ved Topkar": {
+        "name": "Ved Topkar",
+        "email": "me@vedtopkar.com",
+        "bio": "",
+        "twitter": "vedtopkar",
+        "github": "vedtopkar",
+        "linkedin": "vedtopkar"
+      }
+    },
+    "service": {
+      "analytics": "UA-27955410-4",
+      "service": "example",
+      "prism": true
+    }
+  },
+  "domains": []
+}

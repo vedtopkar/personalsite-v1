@@ -1,0 +1,24 @@
+{
+  "2-thio-U": {
+    "title": "Replacing Uridine with 2-Thiouridine Enhances the Rate and Fidelity of Nonenzymatic RNA Primer Extension",
+    "authors": "Benjamin D Heuberger, Ayan Pal, Francesca Del Frate, <b>Ved V Topkar</b>, Jack W Szostak",
+    "journal": "Journal of the American Chemical Society",
+    "publication_date": "Published online 5 February 2015.",
+    "full_text": "2-thio-U",
+    "supplemental_materials": "2-thio-U-supplementary",
+    "citation": "137, 2769−2775 (2015)",
+    "doi": "10.1021/jacs.5b00445",
+    "link": "http://pubs.acs.org/doi/abs/10.1021/jacs.5b00445"
+  },
+  "guide-seq": {
+    "title": "GUIDE-seq enables genome-wide profiling of off-target cleavage by CRISPR-Cas nucleases",
+    "authors": "Shengdar Q Tsai, Zongli Zheng, Nhu T Nguyen, Matthew Liebers, <b>Ved V Topkar</b>, Vishal Thapar, Nicolas Wyvekens, Cyd Khayter, A John Iafrate, Long P Le, Martin J Aryee, J Keith Joung",
+    "publication_date": "Published online 16 December 2014.",
+    "journal": "Nature Biotechnology",
+    "full_text": "guide-seq",
+    "supplemental_materials": "guide-seq-supplementary",
+    "citation": "33, 187–197 (2015).",
+    "doi": "10.1038/nbt.3117",
+    "link": "http://www.nature.com/nbt/journal/v33/n2/full/nbt.3117.html"
+  }
+}

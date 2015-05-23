@@ -1,0 +1,12 @@
+<nav class="nav">
+    <div class="nav-group">
+        <a class="nav-item <% if(current.path[0] == "index") { %>active<% } %>" href="/">About</a>
+        <a class="nav-item <% if(current.path[0] == "projects") { %>active<% } %>" href="/projects">Projects</a>
+        <a class="nav-item <% if(current.path[0] == "research") { %>active<% } %>" href="/research">Research</a>
+        <a class="nav-item <% if(current.path[0] == "publications") { %>active<% } %>" href="/publications">Publications</a>
+    </div>
+    <div class="nav-group">
+        <a class="nav-item <% if(current.path[0] == "blog") { %>active<% } %>" href="/blog">Blog</a>
+        <a class="nav-item <% if(current.path[0] == "contact") { %>active<% } %>" href="/contact">Contact</a>
+    </div>
+</nav>

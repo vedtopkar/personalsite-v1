@@ -1,0 +1,12 @@
+{
+  "atom": {
+    "layout": false
+  },
+  "test-post": {
+    "title": "Test Post",
+    "date": "2015-22-5",
+    "tags": ["test"],
+    "author": "Ved Topkar",
+    "published": true
+  }
+}
