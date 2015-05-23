@@ -21,3 +21,5 @@ gulp.task('deploy', ['compile'], function() {
       destination: '/var/www/vedtopkar.com/site'
     }));
 });
+
+gulp.task('default', ['deploy']);
