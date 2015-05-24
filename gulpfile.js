@@ -22,4 +22,6 @@ gulp.task('deploy', ['compile'], function() {
     }));
 });
 
-gulp.task('default', ['deploy']);
+gulp.task('default', ['compile'], function(){
+  console.log('Compilation completed, run "gulp deploy" to compile and deploy');
+});
