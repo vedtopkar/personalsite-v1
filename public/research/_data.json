@@ -1,9 +1,8 @@
 {
-  "hb-casper": {
-    "title": "Casper",
-    "date": "2014-01",
-    "url": "http://github.com/kennethormandy/hb-casper",
-    "desc": "The default Ghost theme, as a static blog."
+  "guide-seq": {
+    "title": "GUIDE-Seq",
+    "image": "",
+    "description": "We did some awesome stuff."
   },
   "hb-epub3": {
     "title": "ePub3",

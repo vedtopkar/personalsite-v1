@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    color: hsl(43, 15%, 70%);
+    color: #DED7C7;
     font-family: 'Open Sans', sans-serif;
     background-color: #222;
     line-height: 1.5;
@@ -415,6 +415,10 @@ pre[class*='language-'] > code[data-language]:after {
 	color: inherit;
 }
 
+.aside-title .active {
+    text-decoration: underline;
+}
+
 .aside-avatar {
     width: 130px;
     border-radius: 50%;
@@ -443,7 +447,7 @@ pre[class*='language-'] > code[data-language]:after {
 	color: hsl(0, 0%, 68%);
 }
 
-.aside a.active {
+.aside li.active {
     color: hsla(43, 60%, 68%, 1);
     text-decoration: underline;
     font-weight: 400;
@@ -459,6 +463,10 @@ pre[class*='language-'] > code[data-language]:after {
 
 .nav-item {
     font-size: 1.1em;
+}
+
+li.nav-item {
+    list-style-type: none;
 }
 
 

@@ -1,4 +1,12 @@
 {
+  "cas9-variants": {
+    "title": "Engineered CRISPR-Cas9 nucleases with altered and improved PAM specificities",
+    "authors": "Benjamin P Kleinstiver, Michelle S Prew, Shengdar Q Tsai, <b>Ved V Topkar</b>, Nhu T Nguyen, Zongli Zheng, Andrew P W Gonzales, Zhuyun Li, Randall T Peterson, Ring-Ruey Joanna Yeh, Martin J Aryee, J Keith Joung",
+    "publication_date": "In Press.",
+    "journal": "Nature",
+    "citation": "",
+    "link": ""
+  },
   "2-thio-U": {
     "title": "Replacing Uridine with 2-Thiouridine Enhances the Rate and Fidelity of Nonenzymatic RNA Primer Extension",
     "authors": "Benjamin D Heuberger, Ayan Pal, Francesca Del Frate, <b>Ved V Topkar</b>, Jack W Szostak",
