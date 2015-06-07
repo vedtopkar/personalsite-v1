@@ -72,6 +72,14 @@ hr {
 
 /* Blog ----------------------------------------- */
 
+a.index-link {
+    text-decoration: none;
+}
+
+a.index-link:hover {
+    text-decoration: underline;
+}
+
 .time {
     color: hsl(0, 0%, 70%);
     font-weight: 300;
