@@ -10,10 +10,11 @@
     
        
         <item>
-          <title>Test Post</title>
-          <description><![CDATA[<p>This is a test post. I will soon be updating this blog more often with interesting information.</p>
+          <title>First Post</title>
+          <description><![CDATA[<p>For the first time in a few years, I have fully rewritten my personal website in hopes of better organizing and outwardly portraying my own history and future endeavors.</p>
+<p>This site is built using the <a href="http://www.harpjs.com">Harp.js</a> static site generator along with <a href="https://github.com/tj/ejs">EJS</a> templating and <a href="http://sass-lang.com/">SASS</a> stylesheets.</p>
 ]]></description>
-          <pubDate>Invalid Date</pubDate>
+          <pubDate>Fri May 22 2015 00:00:00 GMT-0400 (EDT)</pubDate>
           <link>http://vedtopkar.com/blog/[object Object]</link>
           <guid isPermaLink="true">http://vedtopkar.com/blog/[object Object]</guid>
         </item>

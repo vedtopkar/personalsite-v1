@@ -416,8 +416,8 @@ pre[class*='language-'] > code[data-language]:after {
 }
 
 .aside-title {
-	font-weight: 400;
-	font-size: 1.2em;
+	font-weight: 600;
+	font-size: 1.4em;
 	letter-spacing: 1px;
 	margin: 0.75em 0 1.3em 0;
 	color: inherit;
@@ -570,7 +570,7 @@ li.nav-item {
 /* Publications Page ------------------------------*/
 
 ul.publications li {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     list-style-type:none;
 }
 
@@ -579,24 +579,32 @@ ul.publications li {
         color: hsla(43, 60%, 68%, 1);
         font-size: 1.3em;
         font-weight: 600;
+        display: inline-block;
+        line-height: 1.2;
     }
 
     &-authors {
         font-size: .9em;
         font-weight: 300;
+        line-height: 1.25;
+        display: inline-block;
+        vertical-align: bottom;
     }
 
     &-journal > a {
-        font-size: 1.1em;
-        font-style: none;
+        font-size: 1.0em;
+        font-weight: 700;
+        text-decoration: underline;
     }
 
     &-citation {
+        font-weight: 300;
         font-size: .8em;
     }
 
     &-date {
         font-size: .9em;
+        font-weight: 300;
     }
 
     &-links > a {

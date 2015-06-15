@@ -7,9 +7,10 @@
         <p>
           <span class="publication-title"><%= publication.title %></span><br/>
           <span class="publication-authors"><%- publication.authors %></span><br/>
-          <span class="publication-journal"><a href="<%= publication.link %>" target="_blank"><%= publication.journal%></a></span> <span class="publication-citation"><%= publication.citation %></span>
+          <span class="publication-journal"><a href="<%= publication.link %>" target="_blank"><%= publication.journal%></a></span><br/>
+          <span class="publication-citation"><%= publication.citation %></span>
           <% if(publication.doi){ %>
-            <span class="publication-doi">doi: <a href="http://dx.doi.org/<%= publication.doi %>" target="_blank"><%= publication.doi %></a></span><br/>
+            <span class="publication-doi">DOI: <a href="http://dx.doi.org/<%= publication.doi %>" target="_blank"><%= publication.doi %></a>.</span>
           <% } %>
           <% if(publication.publication_date){ %>
             <span class="publication-date"><%= publication.publication_date%></span><br/>
