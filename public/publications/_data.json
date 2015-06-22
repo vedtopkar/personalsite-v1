@@ -10,10 +10,11 @@
   "tru-RFNs": {
     "title": "Dimeric CRISPR RNA-guided FolkI-dCas9 nucleases (RFNs) directed by truncated gRNAs for highly specific genome editing",
     "authors": "Nicolas Wyvekens, <b>Ved V Topkar</b>, Cyd Khayter, J Keith Joung, Shengdar Q Tsai",
-    "publication_date": "In Press.",
     "journal": "Human Gene Therapy",
-    "citation": "",
-    "link": ""
+    "citation": "Epub ahead of print.",
+    "doi": "10.1089/hum.2015.084",
+    "link": "http://online.liebertpub.com/doi/abs/10.1089/hum.2015.084",
+    "full_text": "tru-RFNs"
   },
   "2-thio-U": {
     "title": "Replacing Uridine with 2-Thiouridine Enhances the Rate and Fidelity of Nonenzymatic RNA Primer Extension",

@@ -13,8 +13,9 @@
             <span class="publication-doi">DOI: <a href="http://dx.doi.org/<%= publication.doi %>" target="_blank"><%= publication.doi %></a>.</span>
           <% } %>
           <% if(publication.publication_date){ %>
-            <span class="publication-date"><%= publication.publication_date%></span><br/>
+            <span class="publication-date"><%= publication.publication_date%></span>
           <% } %>
+          <br/>
           <% if(publication.full_text || publication.supplemental_materials){ %>
             <span class="publication-links">
               <% if(publication.full_text){ %><a href="../pdf/<%= publication.full_text %>.pdf" target="_blank">Full Text PDF.</a><% } %>
