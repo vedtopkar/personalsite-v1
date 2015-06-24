@@ -2,16 +2,21 @@
   "cas9-variants": {
     "title": "Engineered CRISPR-Cas9 nucleases with altered and improved PAM specificities",
     "authors": "Benjamin P Kleinstiver, Michelle S Prew, Shengdar Q Tsai, <b>Ved V Topkar</b>, Nhu T Nguyen, Zongli Zheng, Andrew P W Gonzales, Zhuyun Li, Randall T Peterson, Ring-Ruey Joanna Yeh, Martin J Aryee, J Keith Joung",
-    "publication_date": "In Press.",
+    "publication_date": "Published online 22 June 2015.",
     "journal": "Nature",
-    "citation": "",
-    "link": ""
+    "citation": "Epub ahead of print.",
+    "link": "http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14592.html",
+    "doi": "10.1038/nature14592",
+    "citation": "Epub ahead of print.",
+    "full_text": "engineered_cas9",
+    "supplemental_materials": "engineered_cas9_supplementary"
   },
   "tru-RFNs": {
     "title": "Dimeric CRISPR RNA-guided FolkI-dCas9 nucleases (RFNs) directed by truncated gRNAs for highly specific genome editing",
     "authors": "Nicolas Wyvekens, <b>Ved V Topkar</b>, Cyd Khayter, J Keith Joung, Shengdar Q Tsai",
     "journal": "Human Gene Therapy",
     "citation": "Epub ahead of print.",
+    "publication_date": "Published online 12 June 2015.",
     "doi": "10.1089/hum.2015.084",
     "link": "http://online.liebertpub.com/doi/abs/10.1089/hum.2015.084",
     "full_text": "tru-RFNs"

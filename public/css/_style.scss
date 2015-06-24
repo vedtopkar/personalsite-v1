@@ -616,3 +616,52 @@ ul.publications li {
     }
 }
 
+/* Research Page ------------------------------*/
+
+ul.research li {
+    margin-bottom: 20px;
+    list-style-type:none;
+}
+
+.research {
+    &-title {
+        color: hsla(43, 60%, 68%, 1);
+        font-size: 1.3em;
+        font-weight: 600;
+        display: inline-block;
+        line-height: 1.2;
+    }
+
+    &-authors {
+        font-size: .9em;
+        font-weight: 300;
+        line-height: 1.25;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    &-journal > a {
+        font-size: 1.0em;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    &-citation {
+        font-weight: 300;
+        font-size: .8em;
+    }
+
+    &-date {
+        font-size: .9em;
+        font-weight: 300;
+    }
+
+    &-links > a {
+        font-size: 0.8em;
+    }
+
+    &-doi {
+        font-size: 0.8em;
+    }
+}
+
