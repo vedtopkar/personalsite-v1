@@ -5,7 +5,7 @@
     <li class="publications">
       <% var publication = public.publications._data[slug] %>
         <p>
-          <span class="publication-title"><%= publication.title %></span><br/>
+          <span class="publication-title"><%- publication.title %></span><br/>
           <span class="publication-authors"><%- publication.authors %></span><br/>
           <span class="publication-journal"><a href="<%= publication.link %>" target="_blank"><%= publication.journal%></a></span><br/>
           <span class="publication-citation"><%= publication.citation %></span>

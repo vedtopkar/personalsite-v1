@@ -1,10 +1,20 @@
 {
+  "sacas9-variants": {
+    "title": "Broadening the targeting range of <em>Staphylococcus aureus</em> CRISPR-Cas9 by modifying PAM recognition",
+    "authors": "Benjamin P Kleinstiver, Michelle S Prew,  Shengdar Q Tsai,  Nhu T Nguyen, <b>Ved V Topkar</b>, Zongli Zheng  & J Keith Joung",
+    "publication_date": "Published online 2 November 2015.",
+    "journal": "Nature Biotechnology",
+    "citation": "Epub ahead of print.",
+    "link": "http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3404.html",
+    "doi": "10.1038/nbt.3404",
+    "full_text": "sacas9_variants",
+    "supplemental_materials": "sacas9_variants_supplementary"
+  },
   "cas9-variants": {
     "title": "Engineered CRISPR-Cas9 nucleases with altered and improved PAM specificities",
     "authors": "Benjamin P Kleinstiver, Michelle S Prew, Shengdar Q Tsai, <b>Ved V Topkar</b>, Nhu T Nguyen, Zongli Zheng, Andrew P W Gonzales, Zhuyun Li, Randall T Peterson, Ring-Ruey Joanna Yeh, Martin J Aryee, J Keith Joung",
     "publication_date": "Published online 22 June 2015.",
     "journal": "Nature",
-    "citation": "Epub ahead of print.",
     "link": "http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14592.html",
     "doi": "10.1038/nature14592",
     "citation": "523(7561): 481-485.",
