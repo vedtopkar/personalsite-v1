@@ -12,13 +12,13 @@ gulp.task('compile', function(cb){
   });
 });
 
-
 gulp.task('deploy', ['compile'], function() {
-  return gulp.src('./www/**')
+  return gulp.src('www/**')
     .pipe(rsync({
-      root: './www',
-      hostname: settings['hostname'],
-      destination: '/var/www/vedtopkar.com/site'
+      root: 'www/',
+      hostname: 'do',
+      destination: '/var/www/vedtopkar.com/site/',
+      command: true
     }));
 });
 

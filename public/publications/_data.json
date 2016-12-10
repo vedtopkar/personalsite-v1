@@ -1,10 +1,21 @@
 {
+  "guideseq-software": {
+    "title": "Open-source guideseq software for analysis of GUIDE-seq data",
+    "authors": "Shengdar Q Tsai*, <b>Ved V Topkar*</b>, J Keith Joung, Martin J Aryee",
+    "publication_date": "Published 1 May 2016.",
+    "journal": "Nature Biotechnology",
+    "citation": "34(5):483",
+    "link": "http://www.nature.com/nbt/journal/v34/n5/full/nbt.3534.html",
+    "doi": "10.1038/nbt.3534",
+    "full_text": "guideseq_software",
+    "supplemental_materials": "guideseq_software_supplementary"
+  },
   "sacas9-variants": {
     "title": "Broadening the targeting range of <em>Staphylococcus aureus</em> CRISPR-Cas9 by modifying PAM recognition",
-    "authors": "Benjamin P Kleinstiver, Michelle S Prew,  Shengdar Q Tsai,  Nhu T Nguyen, <b>Ved V Topkar</b>, Zongli Zheng  & J Keith Joung",
-    "publication_date": "Published online 2 November 2015.",
+    "authors": "Benjamin P Kleinstiver, Michelle S Prew,  Shengdar Q Tsai,  Nhu T Nguyen, <b>Ved V Topkar</b>, Zongli Zheng, J Keith Joung",
+    "publication_date": "Published 2 November 2015.",
     "journal": "Nature Biotechnology",
-    "citation": "Epub ahead of print.",
+    "citation": "33(12):1293-1298",
     "link": "http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3404.html",
     "doi": "10.1038/nbt.3404",
     "full_text": "sacas9_variants",
@@ -13,7 +24,7 @@
   "cas9-variants": {
     "title": "Engineered CRISPR-Cas9 nucleases with altered and improved PAM specificities",
     "authors": "Benjamin P Kleinstiver, Michelle S Prew, Shengdar Q Tsai, <b>Ved V Topkar</b>, Nhu T Nguyen, Zongli Zheng, Andrew P W Gonzales, Zhuyun Li, Randall T Peterson, Ring-Ruey Joanna Yeh, Martin J Aryee, J Keith Joung",
-    "publication_date": "Published online 22 June 2015.",
+    "publication_date": "Published 22 June 2015.",
     "journal": "Nature",
     "link": "http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14592.html",
     "doi": "10.1038/nature14592",
@@ -26,7 +37,7 @@
     "authors": "Nicolas Wyvekens, <b>Ved V Topkar</b>, Cyd Khayter, J Keith Joung, Shengdar Q Tsai",
     "journal": "Human Gene Therapy",
     "citation": "26(7): 425-431 (2015).",
-    "publication_date": "Published online 12 June 2015.",
+    "publication_date": "Published 12 June 2015.",
     "doi": "10.1089/hum.2015.084",
     "link": "http://online.liebertpub.com/doi/abs/10.1089/hum.2015.084",
     "full_text": "tru-RFNs"
@@ -35,7 +46,7 @@
     "title": "Replacing Uridine with 2-Thiouridine Enhances the Rate and Fidelity of Nonenzymatic RNA Primer Extension",
     "authors": "Benjamin D Heuberger, Ayan Pal, Francesca Del Frate, <b>Ved V Topkar</b>, Jack W Szostak",
     "journal": "Journal of the American Chemical Society",
-    "publication_date": "Published online 5 February 2015.",
+    "publication_date": "Published 5 February 2015.",
     "full_text": "2-thio-U",
     "supplemental_materials": "2-thio-U-supplementary",
     "citation": "137(7): 2769−2775 (2015).",
@@ -45,7 +56,7 @@
   "guide-seq": {
     "title": "GUIDE-seq enables genome-wide profiling of off-target cleavage by CRISPR-Cas nucleases",
     "authors": "Shengdar Q Tsai, Zongli Zheng, Nhu T Nguyen, Matthew Liebers, <b>Ved V Topkar</b>, Vishal Thapar, Nicolas Wyvekens, Cyd Khayter, A John Iafrate, Long P Le, Martin J Aryee, J Keith Joung",
-    "publication_date": "Published online 16 December 2014.",
+    "publication_date": "Published 16 December 2014.",
     "journal": "Nature Biotechnology",
     "full_text": "guide-seq",
     "supplemental_materials": "guide-seq-supplementary",

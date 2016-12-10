@@ -1,10 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <meta name="author" content="Ved Topkar">
+  <meta name="description" content="I'm Ved Topkar, a Harvard student studying biochemistry and computer science. Currently working on CRISPR/Cas9 at MGH Charlestown. Aspiring Doctor/Scientist.">
+  <meta name="keywords" content="Ved Topkar, Topkar, science, CRISPR, cas9, genome editing, Harvard, Colorado, Boulder, Cambridge, Boston, Fairview, programming, bioinformatics, computational biology, , Python, Javascript, Node js, data science, Ved, Lafayette">
+  <meta name="robots" content="index, follow">
+
+  <link rel="dns-prefetch" href="http://fonts.googleapis.com">
+
+  <link rel="publisher" href="//google.com/+VedTopkar">
+
+  <title>Ved Topkar</title>
+
+  <link rel="shortcut icon" href="../favicon.png">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel="" href="fonts.googleapis.com">
+
+  <!-- {% if page.blog %}
+  <link rel="alternate" type="application/atom+xml" title="simurai" href="http://feeds.feedburner.com/simurai">
+  {% endif %} -->
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="aside">
+  <a href="/">
+    <!-- If you want to use your picture instead,
+         you can give the image the `aside-avatar` class -->
+    <img class="aside-avatar" src="../img/photo_stamp.png" alt="Ved Topkar avatar">
+  </a>
+  <a class="aside-hamburger" href="#top"></a>
+  <div class="aside-target">
+    <a href="/">
+      <h1 class="aside-title ">Ved Topkar</h1>
+    </a>
+    <p class="aside-description">MD/PhD student, technology enthusiast</p>
+    <nav class="nav">
+    <ul class="nav-group">
+        <li class="nav-item "><a href="/">About</a></li>
+        <li class="nav-item " ><a href="/research">Research</a></li>
+        <li class="nav-item "><a href="/publications">Publications</a></li>
+    </ul>
+    <ul class="nav-group">
+        <li class="nav-item active"><a href="/blog">Blog</a></li>
+        <li class="nav-item " ><a href="/contact">Contact</a></li>
+    </ul>
+</nav>
+
+  </div>
+</div>
+
+
+        
+          
+
+  <main class="main">
+
+      <article class="article">
+          <h1>Ved Topkar</h1>
+
+          <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ved Topkar</title>
-    <link>http://vedtopkar.com</link>
-    <description>Harvard student and aspiring doctor/scientist.</description>
-    <atom:link href="http://vedtopkar.com/blog/atom.xml" rel="self" type="application/rss+xml" />
+    <link>http://vedtopkar.com
+    <description>MD/PhD student, technology enthusiast</description>
+    <atom:link href="http://vedtopkar.com/blog/atom.xml" rel="self" type="application/rss+xml">
     
        
     
@@ -14,11 +82,55 @@
           <description><![CDATA[<p>For the first time in a few years, I have fully rewritten my personal website in hopes of better organizing and outwardly portraying my own history and future endeavors.</p>
 <p>This site is built using the <a href="http://www.harpjs.com">Harp.js</a> static site generator along with <a href="https://github.com/tj/ejs">EJS</a> templating and <a href="http://sass-lang.com/">SASS</a> stylesheets.</p>
 ]]></description>
-          <pubDate>Fri May 22 2015 00:00:00 GMT-0400 (EDT)</pubDate>
-          <link>http://vedtopkar.com/blog/[object Object]</link>
-          <guid isPermaLink="true">http://vedtopkar.com/blog/[object Object]</guid>
+          <pubdate>Fri May 22 2015 00:00:00 GMT-0700 (PDT)</pubdate>
+          <link>http://vedtopkar.com/blog/[object Object]
+          <guid ispermalink="true">http://vedtopkar.com/blog/[object Object]</guid>
         </item>
       
     
   </channel>
 </rss>
+      </article>
+
+      
+
+
+  </main>
+
+  <nav class="subnav">
+
+    
+
+  </nav>
+
+
+
+        
+
+        <footer class="footer">
+    <a href="#top">
+        <!-- <img class="footer-logo" src="/img/stamp.svg" alt="Ved Topkar stamp"> --!>
+    </a>
+</footer>
+
+    </div>
+
+    
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-27955410-4']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+
+
+  <script src="../js/prism.js"></script>
+
+</body>
+</html>

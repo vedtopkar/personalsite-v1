@@ -3,13 +3,8 @@
   <main class="main">
 
       <article class="article">
-          <h1><%- title %></h1>
-          <div class="article-meta">
-              <% if(author) { %>
-                <a href="http://twitter.com/<%= authors[author].twitter %>"><%= authors[author].name %></a>
-              <% } %>
-              <time class="time"> on <%- date %></time>
-          </div>
+          <h1><%= title %></h1>
+
           <%- yield %>
       </article>
 

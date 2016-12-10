@@ -1,0 +1,27 @@
+{
+  "name": "vvt-personalsite",
+  "version": "1.0.0",
+  "description": "Ved Topkar's personal webiste",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rsync": "0.0.7",
+    "yamljs": "^0.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedtopkar/personalsite.git"
+  },
+  "author": "Ved Topkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedtopkar/personalsite/issues"
+  },
+  "homepage": "https://github.com/vedtopkar/personalsite#readme"
+}

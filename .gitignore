@@ -1,6 +1,9 @@
 # The secret file for deployment #
 secret.yml
 
+# Node modules folder
+node_modules/
+
 
 # OS generated files #
 ######################

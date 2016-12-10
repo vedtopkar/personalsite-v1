@@ -12,13 +12,10 @@
           <h2 class="index-title">
             <%= post.title %>
           </h2>
-          <% if(post.author) { %><span class="meta-author">
-            <a href="http://twitter.com/<%= authors[post.author].twitter %>"><%= authors[post.author].name %></a>
-          <% } %>
-          <time class="time time--inline"> on <%= post.date %></time>
         </a>
+        <time class="time time--inline"><%= post.date %></time>
         <p><%- excerpt(partial(slug)) %></p>
-        <a class="index-more" href="">•••</a>
+        <a class="index-more" href="<%= slug %>">•••</a>
       </li>
     <% } %>
   <% } %>
