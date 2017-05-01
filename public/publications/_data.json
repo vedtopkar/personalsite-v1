@@ -1,4 +1,14 @@
-{
+{  "circle-seq": {
+    "title": "CIRCLE-seq: a highly sensitive <em>in vitro</em> screen for genome-wide CRISPR–Cas9 nuclease off-targets",
+    "authors": "Shengdar Q Tsai, Nhu T Nguyen, Jose Malagon-Lopez, <b>Ved V Topkar</b>, Martin J Aryee, J Keith Joung",
+    "publication_date": "Published Online 1 May 2017.",
+    "journal": "Nature Methods",
+    "citation": "",
+    "link": "http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4278.html",
+    "doi": "10.1038/nmeth.4278",
+    "full_text": "circleseq",
+    "supplemental_materials": "circleseq_supplementary"
+  },
   "guideseq-software": {
     "title": "Open-source guideseq software for analysis of GUIDE-seq data",
     "authors": "Shengdar Q Tsai*, <b>Ved V Topkar*</b>, J Keith Joung, Martin J Aryee",
