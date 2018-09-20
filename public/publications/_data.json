@@ -1,4 +1,15 @@
-{  "circle-seq": {
+{
+  "epigenetic-redundancy": {
+      "title": "Transcription factors, coregulators, and epigenetic marks are linearly correlated and highly redundant.",
+      "authors": "Tobias Ahsendorf, Franz-Josef Müller, <b>Ved Topkar</b>, Jeremy Gunawardena, Roland Eils",
+      "publication_date": "Published 7 December 2017.",
+      "journal": "PLoS ONE",
+      "citation": "",
+      "link": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186324",
+      "doi": "10.1371/journal.pone.0186324",
+      "full_text": "epigenetic-redundancy"
+    },
+  "circle-seq": {
     "title": "CIRCLE-seq: a highly sensitive <em>in vitro</em> screen for genome-wide CRISPR–Cas9 nuclease off-targets",
     "authors": "Shengdar Q Tsai, Nhu T Nguyen, Jose Malagon-Lopez, <b>Ved V Topkar</b>, Martin J Aryee, J Keith Joung",
     "publication_date": "Published Online 1 May 2017.",

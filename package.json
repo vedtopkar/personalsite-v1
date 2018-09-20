@@ -7,7 +7,6 @@
     "gulp": "^3.9.1"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
     "gulp-rsync": "0.0.7",
     "yamljs": "^0.2.8"
   },
